@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    font-family: Arial;
+}
+a{
+    color : #1dbf73;
+    
+    text-decoration:none;
+    font-weight:bolder;
+}
+.author{
+    color: red;
+}
+
+h1{
+   font-size: 35px;
+   color: #404145;
+   line height: 20px; 
+}
+
+p{
+    font-size: 20px;
+    color: blue;
+    line height: 20px;
+    
+}
